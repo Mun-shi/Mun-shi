@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hi there ! I'm Munshi. </h2>
 
 
-[![telegram badge](https://img.shields.io/badge/-Nihaj-blue?style=flat&logo=telegram)](https://t.me/Mun_shi)
+[![telegram badge](https://img.shields.io/badge/-Munshid-blue?style=flat&logo=telegram)](https://t.me/Mun_shi)
 
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Mun-shi)
